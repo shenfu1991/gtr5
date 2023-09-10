@@ -7,7 +7,7 @@
 | 操作系统 |                Ventura              |
 |  处理器  |       AMD 锐龙 R9-5900HX 8核16线程       |
 |   内存   |            32 GB DDR4 3200MHz            |
-| 硬盘1/2  |                 支持双NVMe或NVMe+SATA自适应                  |
+| 硬盘1/2  |               1x NVMe + 1x m.2 SATA3                 |
 |   显卡   |                 AMD Radeon Vega 8                 |
 | 显示接口 |   DP +  HDMI    |
 | USB   |   3x USB3.0 + 2x USB2.0 + 1xType-c    |
