@@ -45,13 +45,13 @@
  
  # 建议
  
- amd核显的黑苹果都使用了NootedRed(https://github.com/ChefKissInc/NootedRed)，因此都是通病，就是上述显卡的问题，因此最好购买有眠驱独显的机型。像铭凡HX80G/HX90G/HX99G,不过价格就上去了，基本上翻倍，gtr5大概2200左右，带独显的要4400左右。
+ amd核显的黑苹果都使用了[NootedRed](https://github.com/ChefKissInc/NootedRed)，因此都是通病，就是上述显卡的问题，因此最好购买有眠驱独显的机型。像铭凡HX80G/HX90G/HX99G,不过价格就上去了，基本上翻倍，gtr5大概2200左右，带独显的要4400左右。
  
  可以继续等待NootedRed项目完善，不久应该会有解决
  
  
  # 鸣谢
- 本项目修改自黑果小兵：https://github.com/daliansky/Beelink-SER5-Hackintosh
+ 本项目修改自[黑果小兵](https://github.com/daliansky/Beelink-SER5-Hackintosh)
  
 
 
