@@ -16,8 +16,11 @@
 | 有线网卡 |               realtek gaming 2.5gbe family controller (rtl8125)               |
 
  
+ --------------
  
- #完善程度
+ 
+ #完善程度 
+ 
  cpu：基本正常，cinebench r23分数 单核1369，多核10117，高于 i7-7700k\i7-9880H,对比本人m1 max 分数，单核1507，多核12172
  
  显卡：集成显卡，已驱动，大多数情景正常，需要GPU加速的app会导致卡住退出，chrome浏览可以在设置中禁用GPU加速，其他有问题的app可以使用以下方式打开：
@@ -37,6 +40,10 @@
  
  1、安装请使用EFI-install.zip里面的EFI 
  2、安装完毕后用EFI.zip里面的EFI 
+ 3、理论上所有5800H\5900hx cup都能用此EFI
+ 
+ 
+ 
  
  
 
