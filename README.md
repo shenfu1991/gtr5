@@ -19,7 +19,7 @@
  --------------
  
  
- #完善程度 
+ # 完善程度 
  
  cpu：基本正常，cinebench r23分数 单核1369，多核10117，高于 i7-7700k\i7-9880H,对比本人m1 max 分数，单核1507，多核12172
  
@@ -36,21 +36,21 @@
  无线网卡+蓝牙： 默认出厂为 `Mediatek mk7621k` 已更换为BCM94360Z4免驱
  
  
- #安装步骤
+ # 安装步骤
  
  1、安装请使用EFI-install.zip里面的EFI 
  2、安装完毕后用EFI.zip里面的EFI 
  3、理论上所有5800H\5900hx cup都能用此EFI
  
  
- #建议
+ # 建议
  
- amd核显的黑苹果都使用了NootedRed，因此都是通病，就是上述显卡的问题，因此最好购买有眠驱独显的机型。像铭凡HX80G/HX90G/HX99G,不过价格就上去了，基本上翻倍，gtr5大概2200左右，带独显的要4400左右。
+ amd核显的黑苹果都使用了NootedRed(https://github.com/ChefKissInc/NootedRed)，因此都是通病，就是上述显卡的问题，因此最好购买有眠驱独显的机型。像铭凡HX80G/HX90G/HX99G,不过价格就上去了，基本上翻倍，gtr5大概2200左右，带独显的要4400左右。
  
  可以继续等待NootedRed项目完善，不久应该会有解决
  
  
- #鸣谢
+ # 鸣谢
  本项目修改自黑果小兵：https://github.com/daliansky/Beelink-SER5-Hackintosh
  
 
