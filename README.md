@@ -38,9 +38,18 @@
  
  # 安装步骤
  
- 1、安装请使用EFI-install.zip里面的EFI 
- 2、安装完毕后用EFI.zip里面的EFI 
- 3、理论上所有5800H\5900hx cup都能用此EFI
+ 阿里云盘不限速下载Ventura13.5.1
+ 
+`https://www.aliyundrive.com/s/QAbUj4bjuAQ` 提取码: 59yn,（由于阿里云盘不能分享 .dmg 格式的镜像文件，所以通过阿里云下载的镜像，需要自行更改文件名称改成 .dmg 结尾）  
+
+  下载后用 balenaEtcher 写入到 16G 以上 U 盘，再自行挂载 U 盘的 EFI，在 EFI   引导分区替换对应的EFI文件夹即可，bios启动选择u盘  
+  
+ 1、安装请使用EFI-install.zip里面的EFI  
+ 2、安装完毕后用EFI.zip里面的EFI   
+ 3、理论上所有5800H\5900hx cup都能用此EFI 
+ 
+ 
+ 
  
  
  # 建议
