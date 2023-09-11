@@ -42,7 +42,7 @@
  
 `https://www.aliyundrive.com/s/QAbUj4bjuAQ` 提取码: 59yn,（由于阿里云盘不能分享 .dmg 格式的镜像文件，所以通过阿里云下载的镜像，需要自行更改文件名称改成 .dmg 结尾）  
 
-  下载后用 balenaEtcher 写入到 16G 以上 U 盘，再自行挂载 U 盘的 EFI，在 EFI   引导分区替换对应的EFI文件夹即可，bios启动选择u盘  
+  下载后用 balenaEtcher 写入到 16G 以上 U 盘，再自行挂载 U 盘的 EFI（自行搜索如何挂载EFI分区或使用`diskgenius格式化EFI分区并分配盘符`），在 EFI   引导分区替换对应的EFI文件夹即可，bios启动选择u盘,关闭安全引导（secure boot）,其他bios设置基本上不用动。
   
  1、安装请使用EFI-install.zip里面的EFI  
  2、安装完毕后用EFI.zip里面的EFI   
@@ -54,7 +54,7 @@
  
  # 建议
  
- amd核显的黑苹果都使用了[NootedRed](https://github.com/ChefKissInc/NootedRed)，因此都是通病，就是上述显卡的问题，因此最好购买有眠驱独显的机型。像铭凡HX80G/HX90G/HX99G,[相关链接](https://github.com/daliansky/minisforum-HX90G-Hackintosh),不过价格就上去了，基本上翻倍，gtr5大概2200左右，带独显的要4400左右。
+ amd核显的黑苹果都使用了[NootedRed](https://github.com/ChefKissInc/NootedRed)，因此都是通病，就是上述显卡的问题，因此最好购买有免驱独显的机型。像铭凡HX80G/HX90G/HX99G,[相关链接](https://github.com/daliansky/minisforum-HX90G-Hackintosh),不过价格就上去了，基本上翻倍，gtr5大概2200左右，带独显的要4400左右。
  
  可以继续等待NootedRed项目完善，不久应该会有解决
  
