@@ -49,6 +49,10 @@
  
  可以继续等待NootedRed项目完善，不久应该会有解决
  
+ 
+ #鸣谢
+ 本项目修改自黑果小兵：https://github.com/daliansky/Beelink-SER5-Hackintosh
+ 
 
 
 
