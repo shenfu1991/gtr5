@@ -48,8 +48,8 @@
  2、安装完毕后用EFI.zip里面的EFI   
  3、理论上所有5800H\5900hx cup都能用此EFI 
  
- !!! note "加装SSD注意事项"
- gtr5第二个m.2硬盘位仅支持sata3协议， 不支持nvme协议，
+# 加装SSD注意事项
+ gtr5第二个m.2硬盘位仅支持sata3协议， 不支持nvme协议，本人加载了一个sata3 500G的SSD，安装了Windows11，目前是windows11 + macOS 13.5双系统。第一启动硬盘为MacOS所在SSD，开机会有windows11 和 MacOS选项。
  
  
  
