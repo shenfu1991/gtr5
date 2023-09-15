@@ -48,7 +48,8 @@
  2、安装完毕后用EFI.zip里面的EFI   
  3、理论上所有5800H\5900hx cup都能用此EFI 
  
- 
+ !!! note "加装SSD注意事项"
+ gtr5第二个m.2硬盘位仅支持sata3协议， 不支持nvme协议，
  
  
  
